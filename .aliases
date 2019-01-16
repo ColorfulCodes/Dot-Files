@@ -1,0 +1,12 @@
+alias c="clear"
+alias ll="ls -lha"
+alias gi="git init"
+alias gs="git status"
+alias ga="git add"
+alias gc="git commit -m"
+alias gl="git log"
+# restarts terminal
+alias rbash="source ~/.bashrc"
+alias m="mkdir"
+alias ..="cd .."
+#ll shows all hidden files

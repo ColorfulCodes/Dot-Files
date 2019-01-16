@@ -1,0 +1,5 @@
+
+# create folder and cds into it
+function mkd () {
+  mkdir -p "$@" && cd "$@"
+}
